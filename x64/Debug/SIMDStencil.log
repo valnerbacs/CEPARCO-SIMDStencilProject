@@ -1,0 +1,4 @@
+﻿  Performing Custom Build Tools
+  main.c
+C:\Users\Eden Alberto\source\repos\SIMDStencil\main.c(20,5): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  SIMDStencil.vcxproj -> C:\Users\Eden Alberto\source\repos\SIMDStencil\x64\Debug\SIMDStencil.exe
